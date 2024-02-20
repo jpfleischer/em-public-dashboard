@@ -23,10 +23,10 @@ services:
     depends_on:
       - db
     environment:
-      - DB_HOST=db
+      - DB_HOST=mongodb://db/openpath_prod_usaid_laos_ev
       - WEB_SERVER_HOST=0.0.0.0
       - CRON_MODE=
-      - STUDY_CONFIG=stage-program
+      - STUDY_CONFIG=usaid_laos_ev
     ports:
       # ipynb in numbers
       - "47962:8888"
