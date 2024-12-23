@@ -136,3 +136,9 @@ dmypy.json
 docker-compose.dev.yml
 
 .DS_Store
+abby_ceo
+apikey.yaml
+*.png
+*.jpeg
+*.jpg
+Data
