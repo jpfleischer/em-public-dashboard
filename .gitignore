@@ -135,3 +135,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.png
+*.jpeg
+*.jpg
+*.pdf
+*-with-emissions.csv
+*.zip
+Data/
+apikey.yaml
+abby_ceo
+all_CanBikeCO
+bull
+CanBikeCO_2
+canbikeco_baclocs
+cleanedsections
+figures
+inferred
+MassCEC
+mass_jacques.tar.gz
